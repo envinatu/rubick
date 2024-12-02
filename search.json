@@ -1,0 +1,244 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RUBICK",
+    "section": "",
+    "text": "Tutoriales de Cubos de Rubik\nEste libro está diseñado para ayudarte a explorar y dominar el fascinante mundo de los cubos de Rubik y otros rompecabezas relacionados. Desde el clásico 2x2x2 hasta el desafiante Megaminx, cada sección te guiará paso a paso a través de los métodos y algoritmos necesarios para resolverlos.",
+    "crumbs": [
+      "Inicio",
+      "Tutoriales de Cubos de Rubik"
+    ]
+  },
+  {
+    "objectID": "index.html#qué-encontrarás-en-este-libro",
+    "href": "index.html#qué-encontrarás-en-este-libro",
+    "title": "RUBICK",
+    "section": "¿Qué encontrarás en este libro?",
+    "text": "¿Qué encontrarás en este libro?\n\n1. Cubo 2x2x2\nUn excelente punto de partida para principiantes. Este cubo, también conocido como Pocket Cube, es más pequeño y fácil de resolver que sus contrapartes más grandes, pero no deja de ser un desafío divertido. Aprenderás los pasos básicos y algoritmos esenciales para resolverlo en cuestión de minutos.\n\n\n2. Cubo 3x3x3 (Principiante y Avanzado)\nEl cubo de Rubik estándar y el más icónico de todos. Aquí encontrarás dos enfoques: - Principiante: Ideal para quienes están empezando, con pasos simplificados que te llevarán a resolverlo paso a paso. - Avanzado: Para aquellos que quieren mejorar su velocidad, esta sección incluye métodos avanzados como CFOP, F2L, OLL y PLL.\n\n\n3. Cubo 4x4x4 y 5x5x5\nConocidos como Rubik’s Revenge y Professor’s Cube respectivamente, estos cubos ofrecen nuevos desafíos, como el manejo de paridades y centros. En esta sección, aprenderás estrategias específicas para abordar estos problemas y completar la solución.\n\n\n4. Pyraminx\nUn rompecabezas en forma de tetraedro que se resuelve de manera distinta a los cubos tradicionales. Su mecánica única lo hace un reto interesante, pero relativamente fácil de resolver con los algoritmos adecuados.\n\n\n5. Mirror Cube\nAunque tiene la misma mecánica que un cubo 3x3x3, el Mirror Cube basa su complejidad en la forma y no en los colores. Resolverlo requiere ajustar tu percepción espacial y prestar atención a las dimensiones de las piezas.\n\n\n6. Megaminx\nEste dodecaedro de 12 caras es uno de los rompecabezas más complejos. Sin embargo, con los métodos adecuados, puedes aprender a resolverlo siguiendo un enfoque similar al del 3x3x3, pero con algunos algoritmos adicionales.\n\n\n7. Skewb\nEl Skewb es un cubo que se gira en sus vértices, lo que lo hace diferente de los demás rompecabezas en esta lista. En esta sección, aprenderás a dominar sus giros y resolverlo con algoritmos simples.",
+    "crumbs": [
+      "Inicio",
+      "Tutoriales de Cubos de Rubik"
+    ]
+  },
+  {
+    "objectID": "index.html#por-qué-resolver-cubos-de-rubik",
+    "href": "index.html#por-qué-resolver-cubos-de-rubik",
+    "title": "RUBICK",
+    "section": "¿Por qué resolver cubos de Rubik?",
+    "text": "¿Por qué resolver cubos de Rubik?\nResolver cubos de Rubik no solo es una actividad divertida, sino también una excelente manera de mejorar tus habilidades cognitivas, como la memoria, la concentración y la resolución de problemas. Además, es un pasatiempo que fomenta la paciencia y la perseverancia.",
+    "crumbs": [
+      "Inicio",
+      "Tutoriales de Cubos de Rubik"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-usar-este-libro",
+    "href": "index.html#cómo-usar-este-libro",
+    "title": "RUBICK",
+    "section": "Cómo usar este libro",
+    "text": "Cómo usar este libro\nCada capítulo está diseñado para guiarte a través de la resolución de un tipo específico de cubo. Encontrarás: - Descripción del cubo: Características y mecánica. - Pasos básicos: Una guía paso a paso. - Algoritmos esenciales: Fórmulas que necesitas memorizar para resolver cada etapa del cubo.\n¡Prepárate para embarcarte en este emocionante viaje y convertirte en un maestro del cubo de Rubik!",
+    "crumbs": [
+      "Inicio",
+      "Tutoriales de Cubos de Rubik"
+    ]
+  },
+  {
+    "objectID": "rubick/2x2x2.html",
+    "href": "rubick/2x2x2.html",
+    "title": "1  2x2x2",
+    "section": "",
+    "text": "2 2x2x2\nEl cubo 2x2x2, también conocido como ‘Mini Rubik’, es un rompecabezas ideal para principiantes. Tiene 8 piezas, todas esquinas, lo que simplifica su resolución.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>2x2x2</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/2x2x2.html#pasos-básicos",
+    "href": "rubick/2x2x2.html#pasos-básicos",
+    "title": "1  2x2x2",
+    "section": "2.1 Pasos básicos",
+    "text": "2.1 Pasos básicos\n\nHaz una cara blanca con las esquinas correctamente orientadas.\nOrienta la capa superior con el algoritmo R U R’ U R U2 R’.\nPermuta las esquinas con U R U’ L’ U R’ U’ L.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>2x2x2</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/3x3x3-principiante.html",
+    "href": "rubick/3x3x3-principiante.html",
+    "title": "2  3x3x3: Método Principiante",
+    "section": "",
+    "text": "3 3x3x3: Método Principiante\nEl método principiante para el cubo 3x3x3 es un enfoque paso a paso diseñado para aprender los conceptos básicos sin necesidad de memorizar muchos algoritmos.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>3x3x3: Método Principiante</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/3x3x3-principiante.html#pasos-básicos",
+    "href": "rubick/3x3x3-principiante.html#pasos-básicos",
+    "title": "2  3x3x3: Método Principiante",
+    "section": "3.1 Pasos básicos",
+    "text": "3.1 Pasos básicos\n\nForma una cruz blanca en la capa inferior.\nCompleta la primera capa ubicando las esquinas blancas.\nResuelve la segunda capa utilizando U R U’ R’ U’ F’ U F** o U’ L’ U L U F U’ F’.**\nHaz una cruz amarilla en la capa superior con F R U R’ U’ F’.\nOrienta la capa superior con R U2 R2 U’ R2 U’ R2 U2 R.\nPermuta las esquinas superiores con U R U’ L’ U R’ U’ L.\nPermuta las aristas superiores usando M2 U M2 U2 M2 U M2.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>3x3x3: Método Principiante</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/3x3x3-avanzado.html",
+    "href": "rubick/3x3x3-avanzado.html",
+    "title": "3  3x3x3: Método Avanzado",
+    "section": "",
+    "text": "4 3x3x3: Método Avanzado\nEl método CFOP (Cruz, F2L, OLL, PLL) es utilizado por cuberos avanzados y es el más popular para resolver el cubo rápidamente.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>3x3x3: Método Avanzado</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/3x3x3-avanzado.html#pasos-básicos",
+    "href": "rubick/3x3x3-avanzado.html#pasos-básicos",
+    "title": "3  3x3x3: Método Avanzado",
+    "section": "4.1 Pasos básicos",
+    "text": "4.1 Pasos básicos\n\nHaz la cruz en la capa blanca de manera eficiente.\nResuelve las primeras dos capas (F2L) insertando pares de esquinas y aristas.\nOrienta la última capa (OLL) con algoritmos específicos. Ejemplo: F R U R’ U’ F’.\nPermuta la última capa (PLL) para resolver el cubo. Ejemplo de permutación de esquinas: x’ R U’ R D2 R’ U R D2 R2 x.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>3x3x3: Método Avanzado</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/4x4x4.html",
+    "href": "rubick/4x4x4.html",
+    "title": "4  4x4x4",
+    "section": "",
+    "text": "5 4x4x4\nEl cubo 4x4x4, también conocido como Rubik’s Revenge, es más complejo. Introduce la necesidad de formar centros y emparejar aristas antes de resolverlo como un 3x3x3.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>4x4x4</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/4x4x4.html#pasos-básicos",
+    "href": "rubick/4x4x4.html#pasos-básicos",
+    "title": "4  4x4x4",
+    "section": "5.1 Pasos básicos",
+    "text": "5.1 Pasos básicos\n\nForma los centros de cada cara.\nEmpareja las aristas con (Uu) L F’ L’ (Uu)’.\nResuelve como un 3x3x3.\nCorrige posibles paridades usando r2 B2 U2 l U2 r’ U2 r U2 F2 r F2 l’ B2 r2.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>4x4x4</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/5x5x5.html",
+    "href": "rubick/5x5x5.html",
+    "title": "5  5x5x5",
+    "section": "",
+    "text": "6 5x5x5\nEl cubo 5x5x5, conocido como el ‘Profesor’, requiere resolver más centros y emparejar más aristas. Es un desafío mayor que el 4x4x4.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>5x5x5</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/5x5x5.html#pasos-básicos",
+    "href": "rubick/5x5x5.html#pasos-básicos",
+    "title": "5  5x5x5",
+    "section": "6.1 Pasos básicos",
+    "text": "6.1 Pasos básicos\n\nForma los centros de cada cara.\nEmpareja las aristas con el mismo principio que en el 4x4x4.\nResuelve como un 3x3x3.\nCorrige paridades específicas usando algoritmos avanzados.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>5x5x5</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/pyraminx.html",
+    "href": "rubick/pyraminx.html",
+    "title": "6  Pyraminx",
+    "section": "",
+    "text": "7 Pyraminx\nEl Pyraminx es un rompecabezas tetraédrico más simple que un 3x3x3, ya que tiene menos piezas.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pyraminx</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/pyraminx.html#pasos-básicos",
+    "href": "rubick/pyraminx.html#pasos-básicos",
+    "title": "6  Pyraminx",
+    "section": "7.1 Pasos básicos",
+    "text": "7.1 Pasos básicos\n\nResuelve los vértices girándolos a su posición correcta.\nForma una cara base con sus aristas alineadas.\nAjusta la capa superior usando algoritmos simples como L’ U’ L U’ L’ U L.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pyraminx</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/mirror.html",
+    "href": "rubick/mirror.html",
+    "title": "7  Mirror Cube",
+    "section": "",
+    "text": "8 Mirror Cube\nEl Mirror Cube se basa en la forma, no en los colores. Se resuelve como un 3x3x3, pero es más desafiante debido a sus piezas de diferentes tamaños.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mirror Cube</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/mirror.html#pasos-básicos",
+    "href": "rubick/mirror.html#pasos-básicos",
+    "title": "7  Mirror Cube",
+    "section": "8.1 Pasos básicos",
+    "text": "8.1 Pasos básicos\n\nHaz una capa base ajustando las piezas por su forma.\nResuelve el resto usando los mismos pasos que para un 3x3x3.\nCorrige las paridades si es necesario.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mirror Cube</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/megaminx.html",
+    "href": "rubick/megaminx.html",
+    "title": "8  Megaminx",
+    "section": "",
+    "text": "9 Megaminx\nEl Megaminx es un dodecaedro con 12 caras. Su resolución sigue una metodología similar al 3x3x3, pero con más pasos.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Megaminx</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/megaminx.html#pasos-básicos",
+    "href": "rubick/megaminx.html#pasos-básicos",
+    "title": "8  Megaminx",
+    "section": "9.1 Pasos básicos",
+    "text": "9.1 Pasos básicos\n\nForma la estrella base.\nResuelve las primeras dos capas.\nOrienta y permuta la última capa con algoritmos específicos.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Megaminx</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/skewb.html",
+    "href": "rubick/skewb.html",
+    "title": "9  Skewb",
+    "section": "",
+    "text": "10 Skewb\nEl Skewb es un rompecabezas basado en movimientos de esquinas. Es más fácil que un 3x3x3 pero presenta giros únicos.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Skewb</span>"
+    ]
+  },
+  {
+    "objectID": "rubick/skewb.html#pasos-básicos",
+    "href": "rubick/skewb.html#pasos-básicos",
+    "title": "9  Skewb",
+    "section": "10.1 Pasos básicos",
+    "text": "10.1 Pasos básicos\n\nHaz la cara blanca.\nOrienta las piezas restantes usando L’ U R U’ L U R’.\nAjusta la última capa con permutaciones simples.",
+    "crumbs": [
+      "Inicio",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Skewb</span>"
+    ]
+  }
+]
